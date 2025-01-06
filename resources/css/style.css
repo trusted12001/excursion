@@ -9,3 +9,8 @@ body{
     font-style: 50px;
     color: #fff;
 }
+
+.lint--cta{
+    font-size: 16px;
+    color: aquamarine;
+}
