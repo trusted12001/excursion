@@ -30,3 +30,13 @@ body{
     font-size: 16px;
     color: aquamarine;
 }
+
+
+/* FOOTER */
+.lint--cta{
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
+
+
